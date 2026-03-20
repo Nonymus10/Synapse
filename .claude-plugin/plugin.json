@@ -6,8 +6,8 @@
     "../agents/java-engineer.md"
   ],
   "skills": [
-    "../skills/trino-optimizer",
-    "../skills/java-testing",
-    "../skills/k8s-deployer"
+    "../skills/trino-optimizer/SKILL.md",
+    "../skills/java-testing/SKILL.md",
+    "../skills/k8s-deployer/SKILL.md"
   ]
 }
