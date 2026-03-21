@@ -1,12 +1,12 @@
 {
-  "name": "Nonymus10-data-platform-toolkit",
+  "name": "Synapse",
   "owner": {
     "name": "Nonymus10"
   },
   "plugins": [
     {
       "name": "data-platform-toolkit",
-      "source": "./",
+      "source": "./plugins/data-platform-toolkit",
       "description": "Specialized agents and skills for data platform engineering — Trino optimization, Java testing, and K8s deployment."
     }
   ]
